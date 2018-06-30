@@ -1,6 +1,6 @@
-# CVPR CLIC 2018 and Image-Compression-and-Video-Coding Summary
+# CVPR CLIC 2018 and Image-Compression-and-Video-Coding Summary [[Web]](http://www.compression.cc/)
 
-#### CVPR 2018- Workshop and Challenge on Learned Image Compression [[Web]](http://www.compression.cc/)
+#### CVPR 2018- Workshop and Challenge on Learned Image Compression [[Web]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w50/html/)
 
  * An Autoencoder-based Learned Image Compressor: Description of Challenge Proposal by NCTU
 
