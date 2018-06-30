@@ -1,4 +1,4 @@
-# CVPR CLIC 2018 
+# CVPR CLIC 2018 and Image-Compression-and-Video-Coding Summary
 
 #### CVPR 2018- Workshop and Challenge on Learned Image Compression [[Web]](http://www.compression.cc/)
 
@@ -47,7 +47,7 @@
 
 
 
-#### Image-Compression-and-Video-Coding (Some summary comes from here [[Web]] https://github.com/flyywh/Image-compression-and-video-coding)
+#### Image-Compression-and-Video-Coding (Some summary comes from here [[Web]] (https://github.com/flyywh/Image-compression-and-video-coding)
 
 
  * Compressive Autoencoders [[Web]](https://arxiv.org/abs/1703.00395) [[PDF]](https://arxiv.org/pdf/1703.00395.pdf)
