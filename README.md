@@ -1,4 +1,6 @@
-# CVPR CLIC 2018 : CVPR 2018- Workshop and Challenge on Learned Image Compression [[Web]](http://www.compression.cc/)
+# CVPR CLIC 2018 
+
+#### CVPR 2018- Workshop and Challenge on Learned Image Compression [[Web]](http://www.compression.cc/)
 
  * An Autoencoder-based Learned Image Compressor: Description of Challenge Proposal by NCTU
 
@@ -38,12 +40,14 @@
 
  * Variational Autoencoder for Low Bit-rate Image Compression
  
+ * Wide-activated Deep Residual Networks based Restoration for BPG-compressed Images
+  
  * YASO
 
- * Wide-activated Deep Residual Networks based Restoration for BPG-compressed Images
 
 
-# Image-Compression-and-Video-Coding (Some summary comes from https://github.com/flyywh/Image-compression-and-video-coding)
+
+#### Image-Compression-and-Video-Coding (Some summary comes from here [[Web]] https://github.com/flyywh/Image-compression-and-video-coding)
 
 
  * Compressive Autoencoders [[Web]](https://arxiv.org/abs/1703.00395) [[PDF]](https://arxiv.org/pdf/1703.00395.pdf)
